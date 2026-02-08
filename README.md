@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osanchezh
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python Deep Learning
-- 💞️ I’m looking to collaborate on Monex Bank in Mexico City
+- 💞️ I’m looking to collaborate on FEMSA or Cemex in Mexico City
 - 📫 How to reach me at www.linkedin.com/in/osanchezh
 
 <!---
