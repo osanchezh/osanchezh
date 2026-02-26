@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python Deep Learning
 - 💞️ I’m looking to collaborate on FEMSA or Cemex in Mexico City
 - 📫 How to reach me at www.linkedin.com/in/osanchezh
-
+- You can check my resume on: https://osanchezh.github.io/
 <!---
 osanchezh/osanchezh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
